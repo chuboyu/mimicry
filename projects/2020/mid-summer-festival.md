@@ -5,6 +5,7 @@
 - Date: Jun 25th, 2020
 
 ## Time Table
+
 |Due Date|Item|Goal|
 |--|--|--|
 |2020/04/11|Brainstorm|Come up with lots of ideas|

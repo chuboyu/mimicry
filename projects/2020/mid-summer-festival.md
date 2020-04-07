@@ -7,7 +7,7 @@
 ## Time Table
 
 |Due Date|Item|Goal|
-|--|--|--|
+|---|---|---|
 |2020/04/11|Brainstorm|Come up with lots of ideas|
 ||1st meeting|pin down projects|
 |2020/04/18|1st design|Details, cost/price estimations, quantity|

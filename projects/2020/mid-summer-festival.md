@@ -12,7 +12,7 @@
 ||1st meeting|pin down projects|
 |2020/04/18|1st design|Details, cost/price estimations, quantity|
 |TBD|prototyping||
-||manufacture||
-||production||
+|TBD|manufacture||
+|TBD|production||
 |2020/06/13|shipping||
 
